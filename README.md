@@ -1,4 +1,8 @@
-## This project was active during Hacktoberfest-2018 and not currently maintained. If you are looking for the Hacktoberfest contribution here is another awesome repo: https://github.com/blackbird71SR/Code-Portfolios
+## This repo is only for Educational purpose and Data leakage.
+
+
+
+##This project was active during Hacktoberfest-2018 and not currently maintained. If you are looking for the Hacktoberfest contribution here is another awesome repo: https://github.com/blackbird71SR/Code-Portfolios
 
 # Hello-World
 
